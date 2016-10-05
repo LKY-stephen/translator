@@ -1,0 +1,4 @@
+﻿  compiler.cpp
+c:\users\stephen\desktop\translator\translator\compiler.cpp(448): warning C4715: “compiler::analysis”: 不是所有的控件路径都返回值
+  translator.vcxproj -> C:\Users\stephen\Desktop\translator\Debug\translator.exe
+  translator.vcxproj -> C:\Users\stephen\Desktop\translator\Debug\translator.pdb (Full PDB)
